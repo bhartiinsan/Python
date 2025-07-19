@@ -1,3 +1,5 @@
 ipykernel 
 numpy 
-panda
+pandas
+metplotlib
+seaborn
